@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
-    <wb-module deploy-name="JavaWebCae">
+    <wb-module deploy-name="Java_Web_Cae">
         <wb-resource deploy-path="/" source-path="/src"/>
+        <wb-resource deploy-path="/" source-path="/lib"/>
     </wb-module>
 </project-modules>
